@@ -1,2 +1,0 @@
-accounts: dict[str, int] = {}
-
